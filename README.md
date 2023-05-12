@@ -4,4 +4,4 @@ This repository contains files for creating a demonstrating how to use Natural L
 
 ### Who do I talk to? ###
 
-* David Rostcheck (drostcheck@leopardllc.com)
+* David Rostcheck (david@leopardllc.com)
